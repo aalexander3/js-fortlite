@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "games": [
+    {
+    "user": "eric",
+    "points": 10,
+    "resources": 3,
+    "structures_built": 2,
+    "time": 0,
+    "health": 2
+  }
+  ]
+}
